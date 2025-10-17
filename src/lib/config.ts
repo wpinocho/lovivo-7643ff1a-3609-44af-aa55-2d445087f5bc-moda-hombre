@@ -1,4 +1,3 @@
-export const STORE_ID = "ac84f76c-46ff-4c23-aa5f-911f0458d1bf";
-export const STRIPE_PUBLISHABLE_KEY =
-  "pk_live_51Rk9SNP66p9BDoW4lgxDnuqvNZYEaL400FCX0GStvuaslkEMBZNRqln5M5bDcBSBmFmR7hlY0pDcA4u4VIi8CRIg00KkqRzlVs";
-export const LOVIVO_STRIPE_ACCOUNT_ID = "acct_1Rk9SNP66p9BDoW4";
+export const STORE_ID = '7643ff1a-3609-44af-aa55-2d445087f5bc'
+export const STRIPE_PUBLISHABLE_KEY = 'pk_live_51Rk9SNP66p9BDoW4lgxDnuqvNZYEaL400FCX0GStvuaslkEMBZNRqln5M5bDcBSBmFmR7hlY0pDcA4u4VIi8CRIg00KkqRzlVs'
+export const LOVIVO_STRIPE_ACCOUNT_ID = 'acct_1Rk9SNP66p9BDoW4'
